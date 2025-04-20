@@ -6,7 +6,7 @@ import java.util.Comparator;
  * Classe para armazenar e mostrar ranking dos jogadores.
  */
 public class Placar
-  {
+{
     private ArrayList<Jogador> ranking;
 
     /**
