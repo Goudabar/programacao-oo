@@ -1,4 +1,4 @@
-package ed02;
+package ed02.SistemaBancario;
 
 /**
  * Classe principal que representa uma conta genérica

@@ -1,4 +1,5 @@
-package ed02;
+package ed02.SistemaBancario;
+
 
 /**
  * Conta poupança - aplica 0.08% de juros ao dia

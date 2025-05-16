@@ -1,4 +1,5 @@
-package ed02;
+package ed02.SistemaBancario;
+
 
 /**
  * Classe principal para testar o funcionamento do sistema

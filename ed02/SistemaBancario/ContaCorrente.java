@@ -1,4 +1,5 @@
-package ed02;
+package ed02.SistemaBancario;
+
 
 /**
  * Conta corrente, que aplica 0.1% de juros ao dia

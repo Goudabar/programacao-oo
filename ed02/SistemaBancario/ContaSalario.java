@@ -1,4 +1,5 @@
-package ed02;
+package ed02.SistemaBancario;
+
 
 /**
  * Conta salário, que não aplica juros diários
