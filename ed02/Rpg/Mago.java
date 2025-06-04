@@ -8,8 +8,9 @@ public class Mago extends Personagem {
 
     @Override
     public void usarHabilidadeEspecial() {
-        // Bola de Fogo - Aumenta o dano do próximo ataque em 10
         System.out.println(nome + " lançou Bola de Fogo!");
-        ataqueBase += 10;
+        // Dano em área: atinge 2 inimigos
+        int dano = 20;
+        System.out.println("Atingiu todos os inimigos com " + dano + " de dano!");
     }
 }
